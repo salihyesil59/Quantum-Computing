@@ -1,4 +1,4 @@
-I try to replicate the quantum algorithms in the article given below:
+I tried to replicate the quantum algorithms in the article given below:
 
 Optimization and experimental realization of the quantum permutation algorithm
 İ. Yalçınkaya, and Z. Gedik
